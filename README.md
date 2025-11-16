@@ -170,7 +170,6 @@ chmod +x bin/aichat
 │   │   ├── cache.py           # Кэширование и база данных
 │   │   ├── logger.py          # Логирование
 │   │   └── monitor.py         # Системный монитор
-│   ├── main_simple.py         # Упрощённая версия приложения
 │   └── main.py                # Основная логика и точка входа
 ├── build.py
 ├── requirements.txt
